@@ -1,3 +1,5 @@
+![background](background.jpg)
+
 ### Hi there, I'm Shizhe
 
 ## I'm a Student, Researcher, Developer, and AI Enthusiast!!
@@ -30,13 +32,10 @@
 
 ---
 
-[![Shizhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3seas0n)](https://github.com/h3seas0n/github-readme-stats)
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Shizhe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=h3seas0n&show_icons=true&hide_border=true" />
+  [![Shizhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3seas0n)](https://github.com/h3seas0n/github-readme-stats)
 
 </details>
 
