@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently growing and learning everything
 - 👯 I’m looking to meet new people in college
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects. Grow ...
 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
