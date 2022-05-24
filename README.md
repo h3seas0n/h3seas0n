@@ -1,6 +1,7 @@
 ![background](https://user-images.githubusercontent.com/61113049/148996938-8254bda6-ece3-4188-bb4e-2f20c2c7ab3d.png)
 
-### Hi there, I'm Shizhe
+### Hi there, I'm Shizhe [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 ## I'm a Student, Researcher, Developer, and AI Enthusiast!!
 
@@ -8,8 +9,6 @@
 - 👯 I’m looking to meet new people in college
 - 🥅 2022 Goals: Contribute more to Open Source projects. Grow ...
 
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
