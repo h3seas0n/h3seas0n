@@ -6,12 +6,10 @@
 ## I'm a Student, Researcher, Developer, and AI Enthusiast!!
 I'm a Stanford freshman studying computer science with a particular interest in artificial intelligence/machine learning.
 
-- 🌱 I’m currently growing and learning everything
 - 👯 I’m looking to meet new people in college
-- 🥅 2022 Goals: Contribute more to Open Source projects. Grow ...
+- 🥅 2023 Goals: Grow intellectually and personally. Find and excel in an internship over summer. Contribute more to Open Source projects.
 
 I am passionate about the potential of AI to not only advance industries, but to make a positive impact on society as a whole. I can't wait to see where my journey in this exciting field takes me next.
-
 <br />
 
 ### Languages and Tools:
